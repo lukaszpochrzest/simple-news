@@ -1,0 +1,6 @@
+newsapi:
+    apikey: ${NEWSAPI_ORG_API_KEY}
+    url: https://newsapi.org/v2/top-headlines
+    country-param: country
+    apikey-param: apikey
+    category-param: category
